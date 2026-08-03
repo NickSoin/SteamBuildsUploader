@@ -8,16 +8,6 @@
 
 config_version=4
 
-_global_script_classes=[ {
-"base": "PanelContainer",
-"class": "AppGroup",
-"language": "GDScript",
-"path": "res://AppGroup.gd"
-} ]
-_global_script_class_icons={
-"AppGroup": ""
-}
-
 [application]
 
 config/name="Steam Upload GUI"

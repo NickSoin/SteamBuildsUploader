@@ -1,0 +1,20 @@
+# Godot-generated files
+src/.import/
+src/.godot/
+
+# Local builds and diagnostics
+dist/
+*.exe
+*.pck
+*.log
+
+# Runtime state and credentials
+**/SteamUploadGUI_settings.bin
+**/SteamUploadGUI_runner.ps1
+**/SteamUploadGUI_upload_exit_code.txt
+
+# IDE and OS files
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
