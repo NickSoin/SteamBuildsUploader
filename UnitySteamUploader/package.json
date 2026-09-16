@@ -1,0 +1,17 @@
+{
+  "name": "com.nicksoin.steam-uploader",
+  "version": "0.1.0",
+  "displayName": "Steam Build Uploader",
+  "description": "A focused Unity Editor tool that builds a player and uploads it to SteamPipe through SteamCMD.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Nick Soin"
+  },
+  "keywords": [
+    "steam",
+    "steampipe",
+    "steamcmd",
+    "build",
+    "upload"
+  ]
+}
