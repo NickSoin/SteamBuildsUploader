@@ -1,0 +1,8 @@
+{
+  "name": "NickSoin.SteamUploader.Editor",
+  "rootNamespace": "NickSoin.SteamUploader",
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}
